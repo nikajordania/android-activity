@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Activity</string>
+    <string name="username_text">USERNAME</string>
+    <string name="username">isabel@app.com</string>
+    <string name="password_text">PASSWORD</string>
+    <string name="password">*******</string>
+    <string name="get_started">Get Started</string>
+    <string name="arrow">→</string>
+    <string name="create_account">Create Account</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="s">/</string>
+    <string name="bg_description">App-Logo</string>
+    <string name="username_icon">Username-Icon</string>
+    <string name="password_icon">Password-Icon</string>
+</resources>
